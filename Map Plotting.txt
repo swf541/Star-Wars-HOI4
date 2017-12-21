@@ -1,0 +1,32 @@
+1 - Byss
+2 - Fresia
+3 - Oroaturoo
+4 - Widek
+5 - Galantos
+6 - Tross Beacon
+7 - Nexus Station
+8 - Khomm
+9 - Eclipse
+10 - Ojom
+11 - Ebaq
+12 - Tarkin's Fang
+13 - Leria Kersil
+14 - Vulpter
+15 - Aargau
+16 - Anaxes
+17 - Coruscant
+18 - Ruan
+19 - Empress Teta Systems
+20 - Metellos
+21 - Velusia
+22 - Borleias
+23 - Ord Mirit
+24 - Pantolomin
+25 - Jagga-Two
+26 - Carratos
+27 - Aphran
+28 - Bilbringi
+29 - Dorin
+30 - Reeccee
+31 - Selvaris
+32 - Ilum
