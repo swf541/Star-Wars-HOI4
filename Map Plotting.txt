@@ -158,3 +158,53 @@
 158 - Ando
 159 - Rodia
 160 - Falleen
+161 - Hypori
+162 - Excarga
+163 - Kowak
+164 - Roon
+165 - Blenjeel
+166 - Kamino
+167 - Rishi
+168 - Ukio
+169 - Rothana
+170 - Pzob
+171 - Leritor
+172 - Lahsbane
+173 - Gamorr
+174 - Thaere
+175 - Cularin
+176 - Aridus
+177 - Iktotch
+178 - Krant
+179 - Geddes
+180 - Void Station
+181 - Kothlis
+182 - Bothawui
+183 - Moonus Mandel
+184 - Antar
+185 - Talasea
+186 - Cato Neimoidia
+187 - Rendili
+188 - Recopia
+189 - Humbarine
+190 - Sarapin
+191 - Neimoidia
+192 - Commenor
+193 - Balmorra
+194 - Kuat
+195 - Alderaan
+196 - Caamas
+197 - Hok
+198 - Mimban
+199 - Gyndine
+200 - Manaan
+201 - Glee Anselm
+202 - Kril'Dor
+203 - Ansion
+204 - Esfandia
+205 - Vortex
+206 - Fornax
+207 - Iridonia
+208 - Ankus
+209 - Adumar
+210 - Nirauan
