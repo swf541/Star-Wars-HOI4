@@ -318,3 +318,18 @@
 318 - Helska
 319 - Bastion
 320 - Dubrillion
+321 - Gravlex Med
+322 - Dantooine
+323 - Sinsang
+324 - Shusugaunt
+325 - Mygeeto
+326 - Morishim
+327 - Ord Biniir
+328 - Garqi
+329 - Generis
+330 - Agamar
+331 - Muunilinst
+332 - Yaga Minor
+333 - Borosk
+334 - Valc VII
+335 - Kalee
