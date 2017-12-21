@@ -30,3 +30,81 @@
 30 - Reeccee
 31 - Selvaris
 32 - Ilum
+33 - Csilla
+34 - Klasse Ephemora
+35 - Mobus
+36 - Rakata Prime
+37 - Lwhekk
+38 - Zonama Sekot
+39 - Zaadja
+40 - G'rho
+41 - Codian Moon
+42 - Rattatak
+43 - Bakura
+44 - Firrerre
+45 - Endor
+46 - Xal 3
+47 - Annaj
+48 - Cerea
+49 - Riflor
+50 - Lorta
+51 - Sump
+52 - Anoth
+53 - Zonju V
+54 - Yalara
+55 - Dosuun
+56 - Javin
+57 - Varonat
+58 - Bespin
+59 - Anoat
+60 - Hoth
+61 - Ison
+62 - Isis
+63 - Cyphar
+64 - Belsavos
+65 - Karfeddion
+66 - Asmeru
+67 - Tibrin
+68 - Mustafar
+69 - Dorvalla
+70 - Polis Massa
+71 - Subterrel
+72 - Sentali
+73 - Phu
+74 - Abregado-Rae
+75 - Belgaroth
+76 - Giju
+77 - Fondor
+78 - Mrlsst
+79 - Ghorman
+80 - Kiffu
+81 - Thyferra
+82 - Yag'Dhul
+83 - Moorja
+84 - Kinyen
+85 - Nkllon
+86 - Exocron
+87 - Kal'Shebbel
+88 - Pergitor
+89 - Karideph
+90 - Adarlon
+91 - Tantra
+92 - Utapau
+93 - Silken Asteroids
+94 - Svivren
+95 - Alzoc III
+96 - Elshandruu Pica
+97 - Suarbi 7
+98 - Vergesso Asteroids
+99 - Dagobah
+100 - Sluis Van
+101 - Queyta
+102 - Kersei
+103 - Praesitlyn
+104 - Bpfassh
+105 - Virmeude
+106 - Xagobah
+107 - Omwat
+108 - Clak'dor VII
+109 - Eriadu
+110 - Sullust
