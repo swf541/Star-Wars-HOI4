@@ -208,3 +208,113 @@
 208 - Ankus
 209 - Adumar
 210 - Nirauan
+211 - Aduba III
+212 - Rinn
+213 - Barab I
+214 - Ylesia
+215 - Nal Hutta
+216 - Ganath
+217 - Lannik
+218 - Toydaria
+219 - Nimban
+220 - Kwenn
+221 - Saki
+222 - Da Soocha V
+223 - Nar Kreeta
+224 - Klatooine
+225 - Kintan
+226 - Kubindi
+227 - Kessel
+228 - Fwillsving
+229 - Honoghr
+230 - Kegan
+231 - Tund
+232 - Ruul
+233 - Tammar
+234 - Teth
+235 - Saleucami
+236 - Toong'l
+237 - Gand
+238 - Iego
+239 - Jabiim
+240 - Handooine
+241 - Russan
+242 - Tarhassan
+243 - Tholarin
+244 - Umbara
+245 - Sneeve
+246 - Kashyyyk
+247 - Trandosha
+248 - Taboon
+249 - Ambria
+250 - Onderon
+251 - Zeltros
+252 - Merson
+253 - Telti
+254 - Colla IV
+255 - Taanab
+256 - Hapes
+257 - Vena
+258 - Donovia
+259 - Chalacta
+260 - Boz Pity
+261 - Togoria
+262 - Roche Asteroids
+263 - Charros IV
+264 - Bimmisaari
+265 - Metalorn
+266 - Anzat
+267 - New Holstice
+268 - The Wheel
+269 - Centares
+270 - Kulthis
+271 - Ossus
+272 - Nespis VIII
+273 - Chandaar
+274 - Lianna
+275 - Jaminere
+276 - Dellalt
+277 - Caluula
+278 - Eredenn
+279 - Brigia
+280 - Rudrig
+281 - Raxus
+282 - Mon Calamari
+283 - Munto Codru
+284 - Pakuuni
+285 - Drongar
+286 - Toola
+287 - Makem Te
+288 - Troiken
+289 - Quermia
+290 - Cholganna
+291 - Ammuud
+292 - Kamar
+293 - Bonadan
+294 - Etti IV
+295 - Mytus VII
+296 - Lorrd
+297 - Cadomai
+298 - Ruuria
+299 - Vaynai
+300 - Almania
+301 - Ziost
+302 - Mirial
+303 - Muskree
+304 - Rhen Var
+305 - Galidraan
+306 - Felucia
+307 - Elom
+308 - Korriban
+309 - Thule
+310 - Tiss'Sharl
+311 - Ord Radama
+312 - Telos
+313 - Serreno
+314 - Bimmiel
+315 - Sernpidal
+316 - Ord Janon
+317 - Belkadan
+318 - Helska
+319 - Bastion
+320 - Dubrillion
