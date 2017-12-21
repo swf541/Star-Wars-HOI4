@@ -108,3 +108,53 @@
 108 - Clak'dor VII
 109 - Eriadu
 110 - Sullust
+111 - Melida
+112 - Shadda-Bi Boran
+113 - Zhar
+114 - Arbra
+115 - Naboo
+116 - Chommel Minor
+117 - Enarc
+118 - Lok
+119 - Tythe
+120 - Zolan
+121 - Dargul
+122 - Haruun Kal
+123 - Malastare
+124 - M'haeli
+125 - Vandelhelm
+126 - Derra IV
+127 - New Plympto
+128 - Duro
+129 - Teyr
+130 - Bestine
+131 - Vulvarch
+132 - Bassadro
+133 - Kooriva
+134 - Devaron
+135 - Aleen
+136 - Atzerri
+137 - Harrin
+138 - Tynna
+139 - Lohopa
+140 - Vendaxa
+141 - Kira
+142 - Seltos
+143 - Triffis
+144 - Monor III
+145 - Silver Station
+146 - Doldur
+147 - Druckenwell
+148 - Columus
+149 - Corellia
+150 - Denon
+151 - Osarian
+152 - Ryloth
+153 - Lameredd
+154 - Siskeen
+155 - Geonosis
+156 - Tatooine
+157 - Pii System
+158 - Ando
+159 - Rodia
+160 - Falleen
