@@ -333,3 +333,52 @@
 333 - Borosk
 334 - Valc VII
 335 - Kalee
+336 - Vaal
+337 - Maridum
+338 - Yavin
+339 - Junction
+340 - Toprawa
+341 - Nam Chorios
+342 - Vorzyd
+343 - Vjun
+344 - Gala
+345 - Aargonar
+346 - Velmor
+347 - Garos IV
+348 - Phindar
+349 - Mandalore
+350 - Wayland
+351 - Contruum
+352 - Cartao
+353 - Korda
+354 - Pengalan IV
+355 - Thisspias
+356 - Carida
+357 - Nak Shimor
+358 - Shulstine V
+359 - Arkania
+360 - Kiribi
+362 - Dathomir
+363 - Vinsoth
+364 - Ord Canfre
+365 - Phaeda
+366 - Ithor
+367 - Ylix
+368 - Katarr
+369 - Anobis
+370 - Ord Mantell
+371 - Brath Qella
+372 - Yinchorr
+373 - Shili
+374 - Bogden
+375 - Chazwa
+376 - Tirahnn
+377 - Obroa-skai
+378 - Aquaris
+379 - Myrkr
+380 - Ploo
+381 - Bandomeer
+382 - Taris
+383 - Vanquo
+384 - Null
+385 - Er'Kit
