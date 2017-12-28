@@ -9,18 +9,11 @@ state=
 	history=
 	{
 		owner = ROM
-		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
-			air_base = 2
-			dockyard = 1
-			6727 = {
-				naval_base = 3
-			}
+		victory_points = {
+			13281 1 
 		}
-		add_core_of = ROM
 	}
 	provinces=
 	{
-414 565 3407 3577 3701 3704 3707 3724 6600 6727 6743 9683 11686 11705 	}
+		13281 }
 }

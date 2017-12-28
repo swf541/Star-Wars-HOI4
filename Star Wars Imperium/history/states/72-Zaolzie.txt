@@ -7,19 +7,12 @@ state={
 	
 	history={
 		owner = CZE
-		buildings = {
-			infrastructure = 6
-			industrial_complex = 1
-		}
-		add_core_of = CZE
-
-		1939.3.14 = {
-			owner = POL
-			controller = POL
+		victory_points = {
+			13275 1 
 		}
 	}
 
 	provinces={
-		9551 9567 
+		13275 
 	}
 }
