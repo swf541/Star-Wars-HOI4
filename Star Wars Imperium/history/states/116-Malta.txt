@@ -7,16 +7,8 @@ state=
 	history= {
 		owner = ENG
 		victory_points = {
-			12003 5 
-		}
-		buildings = {
-			infrastructure = 3
-			air_base = 3
-			12003 = {
-				naval_base = 3
-				coastal_bunker = 1
-			}
+			13319 5 
 		}
 	}
-	provinces= { 12003 }
+	provinces= { 13319 }
 }
