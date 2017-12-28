@@ -13,21 +13,12 @@ state={
 	history={
 		owner = IRE
 		victory_points = {
-			11293 5 
-		}
-		buildings = {
-			infrastructure = 7
-			arms_factory = 1
-			industrial_complex = 5
-			air_base = 3
-			11293 = {
-				naval_base = 6
-			}
+			13316 5 
 		}
 		add_core_of = IRE
 	}
 
 	provinces={
-		285 303 369 3342 3359 7377 11293 11303 
+		13316
 	}
 }
