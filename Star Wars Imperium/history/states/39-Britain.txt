@@ -12,15 +12,12 @@ state={
 
 	history={
 		owner = ITA
-		buildings = {
-			infrastructure = 6
-			industrial_complex = 1
+		victory_points = {
+			13242 1 
 		}
-		add_core_of = ITA
-		add_core_of = AUS
 	}
 
 	provinces={
-		656 6631 6675 9598 9630 11598 11615 
+		13242
 	}
 }
