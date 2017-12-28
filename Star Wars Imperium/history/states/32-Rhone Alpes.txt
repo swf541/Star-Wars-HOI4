@@ -17,12 +17,12 @@ state={
 			infrastructure = 4
 		}
 		victory_points = {
-			3768 1 
+			13234 1 
 		}
 		add_core_of = FRA
 	}
 
 	provinces={
-		762 780 3589 3768 6784 11713 
+		13234
 	}
 }
