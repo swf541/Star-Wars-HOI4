@@ -15,3 +15,7 @@ Hydian Way Part 4
 
 Hydian Way Part 5
 37 38 39  (Controlled by Junction + Taris)
+
+Farlax Cluster
+40 + N'Zoth (Needs Added)
+
