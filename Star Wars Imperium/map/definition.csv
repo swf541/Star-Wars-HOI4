@@ -1998,7 +1998,7 @@
 1997;9;96;15;sea;true;ocean;0
 1998;9;96;60;sea;false;ocean;0
 1999;9;96;165;sea;false;ocean;0
-2000;9;99;25;sea;false;ocean;0
+2000;9;99;25;land;false;unknown;0
 2001;9;99;80;sea;false;ocean;0
 2002;9;99;130;sea;false;ocean;0
 2003;9;102;45;sea;true;ocean;0
