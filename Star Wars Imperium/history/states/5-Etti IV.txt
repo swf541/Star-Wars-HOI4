@@ -1,6 +1,13 @@
 state={
 	id=5
 	name="STATE_5"
+	history={
+		owner = CSA
+		buildings = {
+
+		}
+		add_core_of = CSA
+	}
 	provinces={
 		608 653 810 
 	}
