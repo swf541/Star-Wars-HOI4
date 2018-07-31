@@ -14,6 +14,8 @@
  democratic_republic_desc:0 "PLACEHOLDER"
  autocratic_republic:0 "Autocratic Republic"
  autocratic_republic_desc:0 "PLACEHOLDER"
+ confederacy:0 "Confederacy"
+ confederacy_desc:0 "PLACEHOLDER"
  absolute_monarchy:0 "Absolute Monarchy"
  absolute_monarchy_desc:0 "PLACEHOLDER"
  constitutional_monarchy:0 "Constitutional Monarchy"

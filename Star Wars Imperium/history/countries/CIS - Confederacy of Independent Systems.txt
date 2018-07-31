@@ -1,0 +1,30 @@
+﻿capital = 1
+
+oob = "CSA_25011"
+
+set_technology = {
+
+}
+
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		republican = { 
+			popularity = 100
+		}
+	}
+	
+	ruling_party = republican
+	last_election = "25011.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Dooku"
+	picture = "Dooku.dds"
+	ideology = confederacy
+}
+

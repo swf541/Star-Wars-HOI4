@@ -1,1 +1,2 @@
 CSA	= "countries/Corporate Sector Authority.txt"
+CIS	= "countries/Confederacy of Independent Systems.txt"

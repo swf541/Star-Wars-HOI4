@@ -4,9 +4,14 @@ bookmarks = {
 		desc = "CLONE_WARS_DESC"
 		date = 25001.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "CSA"
+		default_country = "CIS"
 		default = yes
 
+		"CIS" = {
+			history = CIS_CLONE_WARS_DESC
+			ideology = republican
+		}
+		
 		"CSA" = {
 			history = CSA_CLONE_WARS_DESC
 			ideology = corporatist

@@ -9,6 +9,9 @@ ideologies = {
 			
 			autocratic_republic  = {
 			}
+			
+			confederacy  = {
+			}
 		}
 
 		dynamic_faction_names = {
