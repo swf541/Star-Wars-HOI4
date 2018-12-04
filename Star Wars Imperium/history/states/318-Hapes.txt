@@ -1,6 +1,13 @@
 state={
 	id=318
 	name="STATE_318"
+	history={
+		owner = HAP
+		buildings = {
+
+		}
+		add_core_of = HAP
+	}
 	provinces={
 		75 
 	}

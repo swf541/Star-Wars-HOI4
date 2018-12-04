@@ -9,3 +9,12 @@ CIS = {
 	color = rgb { 215 215 215 }
 	color_ui = rgb { 215 215 215 }
 }
+
+HAP = {
+	color = rgb { 102 51 153 }
+	color_ui = rgb { 215 215 215 }
+}
+HUT = {
+	color = rgb { 101 67 33 }
+	color_ui = rgb { 101 67 33 }
+}

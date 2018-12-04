@@ -1,6 +1,13 @@
 state={
 	id=12
 	name="STATE_12"
+	history={
+		owner = CIS
+		buildings = {
+
+		}
+		add_core_of = CIS
+	}
 	provinces={
 		508 509 647 
 	}

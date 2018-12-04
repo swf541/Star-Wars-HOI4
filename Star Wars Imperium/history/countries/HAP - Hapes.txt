@@ -1,6 +1,6 @@
 ﻿capital = 1
 
-oob = "CSA_25011"
+oob = "HAP_25011"
 
 set_technology = {
 
@@ -11,20 +11,21 @@ set_convoys = 5
 set_politics = {
 
 	parties = {
-		republican = { 
+		monarchist = { 
 			popularity = 100
 		}
 	}
 	
-	ruling_party = republican
+	ruling_party = monarchist
 	last_election = "25011.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
-
 create_country_leader = {
-	name = "Count Dooku"
-	picture = "Dooku.dds"
-	ideology = confederacy
+	name = "Ni'Korish"
+	picture = "Korish.dds"
+	ideology = absolute_monarchy
 }
+
+
 
