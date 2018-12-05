@@ -1,6 +1,12 @@
 state={
 	id=15
 	name="STATE_15"
+	history={
+		owner = UNI
+		buildings = {
+
+		}
+	}
 	provinces={
 		206 831 
 	}

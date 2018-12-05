@@ -1,6 +1,13 @@
 state={
 	id=39
 	name="STATE_39"
+	history={
+		owner = GAR
+		buildings = {
+
+		}
+		add_core_of = GAR
+	}
 	provinces={
 		417 713 714 
 	}

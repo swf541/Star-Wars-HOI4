@@ -1,6 +1,13 @@
 state={
 	id=27
 	name="STATE_27"
+	history={
+		owner = ZON
+		buildings = {
+
+		}
+		add_core_of = ZON
+	}
 	provinces={
 		764 765 
 	}

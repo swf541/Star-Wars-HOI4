@@ -1,6 +1,13 @@
 state={
 	id=23
 	name="STATE_23"
+	history={
+		owner = SSI
+		buildings = {
+
+		}
+		add_core_of = SSI
+	}
 	provinces={
 		132 133 477 478 
 	}
